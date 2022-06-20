@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "rjqpd"]
+	path = rjqpd
+	url = https://github.com/bobbyingram/rjqpd
+	shallow = true
+	registered = true
